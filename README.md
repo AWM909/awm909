@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about full-stack development, AI, game dev. I love learning new technologies and turning ideas into working applications. Currently learning C++.
+I'm passionate about full-stack development, AI, game dev. I love learning new technologies and turning ideas into working applications. 
  
 - 🌱 Learning: C++ 
 - 📫 Reach me: [abdulwasaymuhammad909@gmail.com](mailto:your.email@example.com)
