@@ -1,10 +1,8 @@
 # Hey, I'm Wasay 👋
 
-**Software Developer | C++**
-
 ## 🚀 About Me
 
-I'm passionate about full-stack development, AI, game dev. I love learning new technologies and turning ideas into working applications. 
+I'm passionate about AI, Data science and business. I love learning new technologies and turning ideas into working applications. 
  
 - 🌱 Learning: C++ 
 - 📫 Reach me: [abdulwasaymuhammad909@gmail.com](mailto:your.email@example.com)
